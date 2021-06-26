@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital@1&display=swap');
+
+body {
+    font-family: Noto Serif;
+    background: rgb(170, 170, 170);
+}
+
+#box {
+    width: 750px;
+    height: 450px;
+    text-align: center;
+    margin-top: 5em;
+    background: rgba(0, 0, 0, 0.61);
+    color: rgb(255, 255, 255);
+    border-radius: 18px;
+    
+}
+
+.par {
+    font-size: 26pt;
+}
