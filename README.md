@@ -1,3 +1,3 @@
 # Bin2Dec
-### convert Binary to Decimal
+### converter binário em decimal
 ![Bin2Dec](img.png)
