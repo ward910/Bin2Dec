@@ -1,7 +1,7 @@
 function calcular() {
-        const number = document.getElementById("Bin"); // Id de Bin
-        const dec = document.getElementById("Dec"); // Id de Dec
-        const n = parseInt(number.value, 2); // Transforma um numero binario en decimal
+        const number = document.getElementById("Bin"); // Bin Id
+        const dec = document.getElementById("Dec"); // Dec Id
+        const n = parseInt(number.value, 2); // Transform a binary number to decimal
         
         dec.value = n;
     }
